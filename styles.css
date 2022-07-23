@@ -7,7 +7,7 @@ image {
 
 header {
   display: flex;
-  background-color: blueviolet;
+  background-color: rgb(168, 135, 199);
   text-align: center;
 }
 
@@ -31,4 +31,8 @@ footer {
   display: flex;
   background-color: black;
   color: white;
+}
+
+ul.footer-clicks {
+  color: aliceblue;
 }
