@@ -1,0 +1,34 @@
+body {
+  margin: 20px;
+}
+image {
+  size: 50%;
+}
+
+header {
+  display: flex;
+  background-color: blueviolet;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  color: brown;
+}
+
+ul a:hover {
+  color: blue;
+  margin: auto;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  background-color: black;
+  color: white;
+}
